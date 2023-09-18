@@ -1,0 +1,13 @@
+#Documents Ignore
+*.vscode/
+/0_Hardware/Socket_Core/*
+
+#No Ignore
+!*.uvprojx
+!*.h
+!*.c
+!*.ioc
+!*.PrjPcb
+!*.PcbDoc
+!*.SchDoc
+!*.pdf
