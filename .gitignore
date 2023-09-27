@@ -1,7 +1,6 @@
 #Documents Ignore
 *.vscode/
-/0_Hardware/Socket_Core/*
-/0_Hardware/Bottom/*
+**/0_Hardware/*/*
 
 #No Ignore
 !*.uvprojx
